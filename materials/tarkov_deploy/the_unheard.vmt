@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+    "$basetexture" "tarkov_deploy/the_unheard"
+    "$translucent" 1
+    "$vertexalpha" 1
+    "$vertexcolor" 1
+}
